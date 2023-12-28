@@ -1,4 +1,4 @@
-# Duke_510_Project
+# Duke 510 [Data Sourcing and Analytics] Project - Duke Sports Attendance Prediction
 Attendance Prediction of Duke Sporting Events. 
 
 ## Project Overview
